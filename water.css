@@ -42,3 +42,23 @@ color: black;
     padding : 25px;
     text-align : left; 
 }
+
+.crisislist {
+    background-color: aqua;
+    padding-top: 225px;
+    padding-bottom: 225px;
+    position : fixed;
+    white-space: nowrap;
+}
+
+.crisis_explanation {
+    padding-left: 400px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+        
+}
+
+.heading {
+   background-color: aqua;
+   
+}
